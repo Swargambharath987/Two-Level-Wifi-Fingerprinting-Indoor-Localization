@@ -17,7 +17,7 @@ The dataset used in this study comprises two files with different floor numbers.
 2. WLAN (WiFi) RSS database for fingerprinting positioning by Tampere University
 
 ## Results
-Experimental results demonstrate that the Random Forest model achieves the highest accuracy among the tested machine learning models. Consequently, the two-level localization method proves superior to single-level approaches in terms of both localization accuracy and speed.
+Experimental results demonstrate that the Random Forest model achieves the highest accuracy of 96.1% among the tested machine learning models. Consequently, the two-level localization method proves superior to single-level approaches in terms of both localization accuracy and speed.
 
 ## Usage
 Feel free to explore the codebase to gain insights into our two-level localization approach. You can run experiments with your own datasets or contribute to the project by enhancing the existing algorithms or proposing novel methods.
